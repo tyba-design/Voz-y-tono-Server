@@ -1,0 +1,8 @@
+{
+  "name": "Voz y tono de tyba",
+  "description": "Herramienta editorial para ajustar copys y capturas de pantalla a las reglas oficiales de voz y tono de tyba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

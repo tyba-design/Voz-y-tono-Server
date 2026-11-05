@@ -1,0 +1,128 @@
+﻿1. Tipos de mensajes y guías
+1. Onboarding / Bienvenida
+
+   * Breve, claro, transmite confianza.
+   * Ejemplo: “¡Bienvenido a tyba! Empieza a invertir desde $100,000  y construye tu futuro financiero paso a paso.”
+
+      2. CTAs o botones
+
+         * Siempre empezar con verbos de acción directos.
+         * Ejemplo: “Invertir ahora”, “Ver portafolio”, “Conocer riesgos”.
+
+            3. Mensajes de error
+
+               * Empáticos, con solución.
+               * Ejemplo: “No pudimos guardar tu inversión. Intenta de nuevo en unos minutos.”
+
+                  4. Confirmaciones de éxito
+
+                     * Positivas, transmiten seguridad.
+                     * Ejemplo: “¡Listo! Tu inversión quedó confirmada. Revisa los detalles en tu portafolio.”
+
+                        5. Explicaciones de riesgo
+
+                           * Claras, sin alarmar.
+                           * Ejemplo: “Este portafolio es de riesgo alto: puede dar mayores rendimientos, pero también variaciones más fuertes en el tiempo. Si buscas estabilidad, revisa las opciones de riesgo bajo o moderado.”
+
+                              6. Notificaciones (push/app)
+
+                                 * Cortas, relevantes, con valor.
+                                 * Ejemplo: “Sebas, tu inversión fue exitosa🚀. Revisa los detalles en la app.”
+
+________________
+
+
+2. Buenas prácticas de UX Writing en productos digitales
+                                    * Escribe para la acción: cada texto debe guiar al usuario a su siguiente paso.
+
+                                    * Menos es más: oraciones cortas y fáciles de leer.
+
+                                    * Consistencia visual + verbal: textos alineados con la jerarquía visual.
+
+                                    * Empatía en los momentos difíciles: especialmente en errores o rechazos.
+
+                                    * Accesibilidad: usa un lenguaje inclusivo, evita jerga y construcciones complejas.
+
+                                    * Microcopy como guía: usar pequeños mensajes para anticipar dudas (ej: “Tu contraseña debe tener al menos 8 caracteres”).
+
+                                    * Test & Learn: probar variantes de copy (A/B testing) para ver qué conecta mejor.
+________________
+
+
+3. Aportes de Microcopy de Kinnert Yifrah para tyba
+3.1. El microcopy es diseño
+                                       * No son “textos secundarios”, son parte de la experiencia central.
+
+                                       * Cada palabra debe ser tan pensada como un botón o un flujo.
+
+                                       * Para tyba: trata los textos de portafolios, riesgos o errores con el mismo cuidado que un componente visual del design system.
+
+________________
+
+
+3.2. Microcopy ≠ marketing copy
+                                          * El marketing busca persuadir; el microcopy busca acompañar y guiar.
+
+                                          * Tono más conversacional, menos publicitario.
+
+                                          * Para tyba: evita frases como “¡La mejor inversión de tu vida!” y prefiere “Elige el portafolio que se adapta a tu perfil de riesgo”.
+
+________________
+
+
+3.3. Contexto es todo
+                                             * Un buen texto depende del momento exacto del usuario en el flujo.
+
+                                             * Siempre responde: ¿qué necesita saber/decidir en este paso?
+
+                                             * Para tyba: en un error de pago, lo clave no es “error técnico”, sino “qué hacer ahora”.
+
+________________
+
+
+3.4. Sé humano, cercano y útil
+                                                * Escribe como hablas con un amigo, pero con profesionalismo.
+
+                                                * Agrega toques de personalidad donde no afecten la claridad.
+
+                                                * Para tyba: un push de recordatorio puede ser “Sebas, aún tienes saldo listo para invertir 😉”.
+
+________________
+
+
+3.5. Anticipa dudas y reduce fricción
+                                                   * Usa el microcopy para resolver preguntas antes de que surjan.
+
+                                                   * Ejemplo clásico: “Tu contraseña debe tener al menos 8 caracteres” junto al input.
+
+                                                   * Para tyba: “Puedes retirar tu dinero en cualquier momento sin penalidades” junto al botón de retiro.
+
+________________
+
+
+3.6. El microcopy crea confianza
+                                                      * Transparencia genera credibilidad.
+
+                                                      * No prometas lo que no se cumple; muestra riesgos con claridad.
+
+                                                      * Para tyba: “Recuerda: rendimientos pasados no garantizan resultados futuros”.
+
+________________
+
+
+3.7. Detalles pequeños, impacto grande
+                                                         * Los textos más cortos (botones, estados vacíos, errores) son los que más marcan la experiencia.
+
+                                                         * Para tyba: en lugar de “Vacío”, usar “Aún no tienes inversiones. Empieza con tu primer portafolio hoy mismo 🚀”.
+
+________________
+
+
+3.8. Prueba y ajusta
+                                                            * El microcopy no es definitivo: debe probarse, medirse y evolucionar.
+
+                                                            * Métodos: A/B testing, encuestas rápidas, análisis de métricas.
+
+                                                            * Para tyba: probar CTA “Invertir ahora” vs. “Empezar a invertir” y medir cuál convierte más.
+
+________________

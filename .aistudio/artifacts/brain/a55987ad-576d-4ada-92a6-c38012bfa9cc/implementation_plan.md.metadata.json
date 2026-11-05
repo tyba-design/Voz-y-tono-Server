@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación revisado incorporando exhaustivamente las tres fuentes adjuntas (Global Guidelines de modales/diálogos, Microcopy y buenas prácticas de Kinneret Yifrah adaptadas a tyba, y Guía de marca/productos/journey de tyba), integradas con el skill tyba-voz-y-tono y el prompt inicial. Define la arquitectura full-stack con backend Node/Express y Gemini 3.8 Flash, endpoint /api/ajustar, motor de respaldo local y la interfaz minimalista en Inter de 680 px.",
+  "updatedAt": "2026-11-05T20:49:52.115067515Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,17 @@
+﻿Global Guidelines
+1. Alineación de textos en Modales / Dialog
+Siempre que consulten sobre textos para Dialog / Modales, cierra recomendando la buena práctica que aplique de las siguientes listadas:
+
+
+* Si el título y el texto son inferiores a 3 líneas (generalmente menos de 20 palabras en el texto descriptivo o título): deben ir centrado los textos
+* Si el título y el texto son superiores a 3 líneas (generalmente más de 20 palabras en el texto descriptivo o el título): debe ir alineado a la izquierda ambos textos
+* Si es un Dialog / Modal de acción destructiva: Este modal aparece cuando el usuario está haciendo una acción que no es reversible (no se puede deshacer). Se recomienda:
+   * Usar el icono de Alert
+   * Preguntar al usuario si está seguro de realizar X acción
+   * Especificar las consecuencias de continuar con X acción
+   * CTA / botón esté alineado con el mensaje del título.
+* Si es un Dialog de acción de abandono de procesos: Este dialog aparece cuando el usuario está haciendo un proceso y decide abandonar durante el mismo. Se utiliza para evitar que los usuarios abandonen procesos como cash in y vinculación
+   * Usar el ícono Alert amarillo
+   * Preguntar si desea abandonar proceso
+   * CTA / botón principal debe invitar al usuario a continuar con el proceso
+   * Y el CTA / botón de abandono se debe usarse con especificaciones: minimal y darnger (color rojo).
